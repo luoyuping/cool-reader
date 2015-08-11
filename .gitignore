@@ -17,6 +17,7 @@
 
 !/src/
 **/.*
+**/*.*~
 #!/src/Funation/*un~
 #!/src/Thread/*un~
 #!/src/IO/*un~
