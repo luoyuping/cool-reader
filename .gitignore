@@ -1,9 +1,19 @@
 #.gitignore 
 /*
  
-!/src/
+!/src/Funation/*.cpp
+!/src/Funation/*.h
+
+!/src/IO/*.cpp
+!/src/IO/*.h
+
+!/src/Thread/*.h
+!/src/Thread/*.cpp
+
+!/src/rapidjson/*.h
+!/src/rapidjson/*.cpp
 #!/src/**/*.h
-#!/src/**/*.c
+#!/src/**/*.cpp
 
 !/client.cpp
 
