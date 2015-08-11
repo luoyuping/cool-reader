@@ -16,11 +16,10 @@
 #!/src/**/*.cpp
 
 !/src/
-src/*.un~
-
-!/src/Funation/*un~
-!/src/Thread/*un~
-!/src/IO/*un~
+**/.*
+#!/src/Funation/*un~
+#!/src/Thread/*un~
+#!/src/IO/*un~
 
 
 !/client.cpp
