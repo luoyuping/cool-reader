@@ -1,7 +1,9 @@
 #.gitignore 
 /*
  
-!/src/
+!/src/**/*.cpp
+!/src/**/*.h
+!/src/**/*.c
 
 !/client.cpp
 
